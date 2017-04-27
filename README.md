@@ -1,5 +1,5 @@
 # hello-world
-learning git
+learning this tool
 
   This file is being edited in what looks like a place to write code even though this is just a .txt file
 a tab is 2 spaces in this text editor.
